@@ -36,3 +36,5 @@
 
 # Ignore ide setting
 .idea
+/app/assets/builds/*
+!/app/assets/builds/.keep

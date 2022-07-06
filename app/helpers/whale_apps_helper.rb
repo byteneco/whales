@@ -1,0 +1,2 @@
+module WhaleAppsHelper
+end
